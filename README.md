@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything really... Im more into backend stuff
 - 📫 How to reach me:<br>
 &nbsp; Facebook: https://www.facebook.com/profile.php?id=100074250128125<br>
-&nbsp; Discord: RandomShtuf#8723
+&nbsp; Discord: randomshtuf
 
 <!---
 RandomShtuf/RandomShtuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
